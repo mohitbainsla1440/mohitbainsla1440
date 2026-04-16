@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Builder;MathWorld+AI+Creator;Automation+%7C+Data+%7C+AI;Always+Learning+%F0%9F%9A%80&center=true&width=500&height=50">
+</p>
+
+
 ## 🚀 Building AI Agents | MathWorld AI | Automation Systems
 
 
