@@ -19,14 +19,6 @@
 - 📱 Creator of MathWorld AI – AI-powered learning app  
 - ⚙️ Passionate about automation, data systems & real-world problem solving  
 
----
-## 🏆 Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mohitbainsla1440&theme=radical&no-frame=true&margin-w=10)
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitbainsla1440&theme=react-dark)
 
 ## 🚀 Currently Focused On
 
@@ -87,6 +79,9 @@
 - 📧 Email: mohit.singh010491@gmail.com  
 
 ---
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitbainsla1440&theme=react-dark)
 
 ## ⚡ Fun Fact
 I transitioned from retail to AI & data by learning after work hours — now building intelligent systems
