@@ -20,7 +20,20 @@
 - ⚙️ Passionate about automation, data systems & real-world problem solving  
 
 ---
+## 🏆 Achievements
 
+![trophy](https://github-profile-trophy.vercel.app/?username=mohitbainsla1440&theme=radical&no-frame=true&margin-w=10)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitbainsla1440&theme=react-dark)
+
+## 🚀 Currently Focused On
+
+- 🤖 Building **AI Agents using Claude Code**
+- 📱 Scaling **MathWorld AI**
+- ⚡ Creating automation systems for real-world problems
+  
 ## ⚡ What I’m Building
 - 🤖 Claude Code AI Agents
   - Autonomous agents that build apps, analyze data & automate workflows  
@@ -42,29 +55,31 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Work
 
-### 🔹 MathWorld AI
-- AI-powered math assistant app  
-- Helps users solve & understand problems step-by-step  
-- Focused on interactive learning  
+### 🤖 AI Agents (Claude Code)
+- Autonomous agents that build apps & automate workflows  
+- Real-world use cases with APIs and data systems  
 
-### 🔹 Claude Code Agents
-- Build autonomous AI agents  
-- Automate app development workflows  
-- Integrate APIs + real-time logic  
+### 📱 MathWorld AI
+- AI-powered math learning app  
+- Step-by-step solutions + concept explanation  
+- Built for real-world student use  
 
-### 🔹 Data Automation Engine
+### 📊 Data Automation Engine
 - Automates SQL workflows using Python  
-- Saves hours of manual reporting  
+- Reduces manual reporting time drastically
 
 ---
+## 👀 Profile Views
 
-## 📈 GitHub Stats
-Stats
+![Profile Views](https://komarev.com/ghpvc/?username=mohitbainsla1440&color=blue)
 
-Streak
+## 📊 GitHub Stats
 
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitbainsla1440&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mohitbainsla1440&theme=radical)
 ---
 
 ## 🌐 Connect With Me
