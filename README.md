@@ -61,8 +61,8 @@ Streak
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: (add your link)  
-- 📧 Email: (optional)  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohit-bainsla-a30a85195 
+- 📧 Email: mohit.singh010491@gmail.com  
 
 ---
 
