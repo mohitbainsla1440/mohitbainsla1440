@@ -33,10 +33,12 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Python, SQL  
-- 📊 Data: Pandas, NumPy, Power BI  
-- 🤖 AI: Claude Code, Prompt Engineering  
-- ⚙️ Tools: Git, APIs, Automation Scripts  
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![SQL](https://img.shields.io/badge/SQL-Advanced-green)
+![Power BI](https://img.shields.io/badge/PowerBI-Data-yellow)
+![AI](https://img.shields.io/badge/AI-Builder-purple)
+![Automation](https://img.shields.io/badge/Automation-Expert-orange)
 
 ---
 
