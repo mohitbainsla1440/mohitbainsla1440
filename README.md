@@ -76,4 +76,4 @@ Streak
 ## ⚡ Fun Fact
 I transitioned from retail to AI & data by learning after work hours — now building intelligent systems
 
-![Snake animation](https://github.com/mohitbainsla1440/mohitbainsla1440/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mohitbainsla1440/mohitbainsla1440/output/github-contribution-grid-snake.svg)
