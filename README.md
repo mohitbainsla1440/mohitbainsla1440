@@ -78,6 +78,8 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/mohit-bainsla-a30a85195 
 - 📧 Email: mohit.singh010491@gmail.com  
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohitbainsla" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mohitbainsla?trk=profile-badge">Mohit Bainsla</a></div>
+              
 ---
 ## 📈 Contribution Graph
 
